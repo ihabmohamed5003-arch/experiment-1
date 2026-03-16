@@ -70,7 +70,7 @@ END
 
 
 
-![alt text](ADDOT.png)
+![alt text](add.png)
 
 
 
